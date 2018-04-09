@@ -1,1 +1,2 @@
-# lamvi2.github.io
+# lamvinet
+Source code for browser version of LAMVI
